@@ -1,0 +1,23 @@
+name: localizex
+description: "A lightweight and efficient Flutter package for managing application localization with support for dynamic locale switching and easy string retrieval."
+version: 1.0.0
+homepage: https://github.com/Dipak677/localizex
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:

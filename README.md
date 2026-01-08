@@ -1,5 +1,8 @@
 # localizex
 
+[![Pub Version](https://img.shields.io/pub/v/localizex.svg)](https://pub.dev/packages/localizex)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A lightweight and efficient Flutter package for managing application localization with support for dynamic locale switching and easy string retrieval.
 
 ## Features
@@ -282,8 +285,3 @@ English, Hindi, Spanish, French, German, Chinese, Japanese, Korean, Arabic, Russ
 ## Additional Information
 
 **License**: This package is released under the MIT License. See [LICENSE](LICENSE) file for details.
-
----
-
-Made with ❤️ for the Flutter community
-# localizex
